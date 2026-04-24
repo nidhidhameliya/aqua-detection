@@ -1,6 +1,6 @@
-# 🌊 Real-Time Aquatic Debris Detection using YOLOv8
+# 🌊 Real-Time Aqua Detection using YOLO
 
-🚀 A Deep Learning-based system for detecting aquatic debris and underwater objects in real-time using YOLOv8.
+🚀 A Deep Learning-based system for detecting aqua and underwater objects in real-time using YOLO.
 
 ---
 
