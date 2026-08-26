@@ -1,6 +1,6 @@
 # 🌊 Real-Time Aqua Detection using YOLO
 
-🚀 A Deep Learning-based system for detecting aqua and underwater objects in real-time using YOLO.
+🚀 A Deep Learning-based system for detecting aqua and underwater objects in real-time using YOLO
 
 ---
 
